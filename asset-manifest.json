@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.bb751f68.css",
+    "main.css": "./static/css/main.ec480cb6.css",
     "main.js": "./static/js/main.e88787ee.js",
+    "static/media/iPhone14.svg": "./static/media/iPhone14.1b2d2914adaf89766efe.svg",
+    "static/media/iPhone14_mob.svg": "./static/media/iPhone14_mob.88a4f1480a819a019e49.svg",
     "static/media/phones.png": "./static/media/phones.cbed3047b66983188920.png",
     "static/media/Logo.svg": "./static/media/Logo.861d696f79ec57e7780d2b5904bb1eff.svg",
     "static/media/tablets.png": "./static/media/tablets.c198526af9dea077ce2a.png",
     "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
-    "static/media/iPhone14.png": "./static/media/iPhone14.7b42f5a71f0b23181a44.png",
     "static/media/accessories.png": "./static/media/accessories.b914f4124f0dab3439fb.png",
-    "static/media/iPhone14_mob.png": "./static/media/iPhone14_mob.fa13001e667cb7988218.png",
     "static/media/Shopping_cart.svg": "./static/media/Shopping_cart.fbb7bb4b7513df420fa1dcc67ff28eb0.svg",
     "static/media/Favourites.svg": "./static/media/Favourites.28f6088c83570782c6af97ed6ee84f70.svg",
     "static/media/Home.svg": "./static/media/Home.901f72c9436f9e8c63573838c422c80d.svg",
@@ -31,11 +31,11 @@
     "index.html": "./index.html",
     "static/media/Slider_dot-active.svg": "./static/media/Slider_dot-active.5327a83cedb082bb5c73.svg",
     "static/media/Slider_dot.svg": "./static/media/Slider_dot.5573428e225866fd8e33.svg",
-    "main.bb751f68.css.map": "./static/css/main.bb751f68.css.map",
+    "main.ec480cb6.css.map": "./static/css/main.ec480cb6.css.map",
     "main.e88787ee.js.map": "./static/js/main.e88787ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb751f68.css",
+    "static/css/main.ec480cb6.css",
     "static/js/main.e88787ee.js"
   ]
 }
